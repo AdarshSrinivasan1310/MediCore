@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1713261013 source:c:\users\dell\onedrive\desktop\college\sem 2\oops\oops\package_final\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"person.h"
+	"appointment.h"
+	"patient.h"
+	"staff.h"
+	"hospital.h"
+
+1713261013 c:\users\dell\onedrive\desktop\college\sem 2\oops\oops\package_final\person.h
+	<iostream>
+
+1713261013 c:\users\dell\onedrive\desktop\college\sem 2\oops\oops\package_final\appointment.h
+
+1713261013 c:\users\dell\onedrive\desktop\college\sem 2\oops\oops\package_final\patient.h
+	<iostream>
+	"person.h"
+
+1713261013 c:\users\dell\onedrive\desktop\college\sem 2\oops\oops\package_final\staff.h
+	<iostream>
+	"person.h"
+
+1713262063 c:\users\dell\onedrive\desktop\college\sem 2\oops\oops\package_final\hospital.h
+	"appointment.h"
+	"patient.h"
+	"staff.h"
+	<iostream>
+	<vector>
+
