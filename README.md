@@ -1,2 +1,3 @@
-# MediCore
-This is a simple Space Invaders game created using Python's turtle module. Players can move left and right with the arrow keys or A/D keys and fire bullets using the spacebar or 0 key. The game includes enemy movement, score tracking, and a game-over condition when enemies reach the bottom. Ensure player.gif, invader.gif, and space_invaders_background.gif are in the same folder before running python space_invaders.py. Future updates may include enhanced gameplay features and improved graphics.
+#medicore
+This is a c++ code which implements a relation between appointment , patient , person , staff ,hospital using the entities concept , super set concepts , vectors , classes etc
+which represents a hosptal database system 
